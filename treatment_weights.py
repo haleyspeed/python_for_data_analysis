@@ -17,7 +17,7 @@ import numpy as np
 file_name = 'mouse_weights.csv'
 directory = 'D:\\Dropbox'
 group1 = 'saline'
-group2 = 'igf'
+group2 = 'drug'
 
 
 #--------------------------------------------------------------------------------------------------------------------------------------#
