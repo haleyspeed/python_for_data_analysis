@@ -6,3 +6,5 @@ A collection of Python 2.6, 2.7, and 3.6 programs written for analysis of pharma
 * treatment_weights
 * LTP_analysis_old.py
 * PPR_analysis_old.py
+
+Readme and additional information can be found in the (original) repositories for each file.
